@@ -1,0 +1,13 @@
+name: Ali
+age: 28
+address: "DHHD: random"
+active: true
+key:
+    key: value
+    key1: 22
+    ramdom: true
+
+array:
+    - item1
+    - item2
+    - {key: value}
